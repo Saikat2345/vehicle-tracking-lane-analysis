@@ -1,0 +1,5 @@
+yt-dlp 
+opencv-python
+ultralytics
+pandas
+ipykernel

@@ -22,12 +22,12 @@ and provide both visual and structured data outputs for traffic flow monitoring.
 - **Summary Report**: Shows total vehicle count per lane after processing.
 
   ## 📂 Project Structure
-.
-├── car_tracking.py          # Test script to check if cars are tracked properly
-├── creating_path_points.py  # Script to set bounding box points for each lane
-├── LenStracture.py          # Script to visualize lane structures
-├── final.py                 # Main script where the full traffic flow analysis is executed
-├── video_download.py        # Script to download traffic video from YouTube locally
-├── showing_csv.ipynb        # Jupyter Notebook to preview the generated CSV file
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+```.
+├── car_tracking.py # Test script to check if cars are tracked properly
+├── creating_path_points.py # Script to set bounding box points for each lane
+├── LenStracture.py # Script to visualize lane structures
+├── final.py # Main script where the full traffic flow analysis is executed
+├── video_download.py # Script to download traffic video from YouTube locally
+├── showing_csv.ipynb # Jupyter Notebook to preview the generated CSV file
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation```
